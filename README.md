@@ -1,4 +1,6 @@
 ````markdown
+<img width="1918" height="800" alt="todo" src="https://github.com/user-attachments/assets/3a7cc9df-258f-4cff-be30-de6173bd35aa" />
+
 # 📝 Laravel Todo App
 
 Тестовое задание для позиции **Junior Laravel Developer**.  
